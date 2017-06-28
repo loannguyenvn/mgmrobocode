@@ -1,0 +1,6 @@
+#Robocode robot team
+#Mon Feb 20 18:41:04 ICT 2017
+team.members=sample.MyFirstJuniorRobot,sample.MyFirstRobot,team1.MyRobot*
+team.author.name=Steffen
+robocode.version=1.9.2.6
+team.description=Some robots that don't start with "My"

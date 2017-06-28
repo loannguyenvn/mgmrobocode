@@ -1,0 +1,6 @@
+#Robocode robot team
+#Mon Feb 20 18:40:33 ICT 2017
+team.members=sample.MyFirstJuniorRobot,sample.MyFirstRobot,team1.MyRobot*
+team.author.name=Puffedo
+robocode.version=1.9.2.6
+team.description=All robots that start with "My"
